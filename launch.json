@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "JavaFX Application",
+        "request": "launch",
+        "mainClass": "HelloFX",
+        "vmArgs": "--module-path ${workspaceFolder}/lib --add-modules javafx.controls,javafx.fxml",
+        "projectName": "Ratna_105841108821_Lab-Multimedia_Python"
+      }
+    ]
+  }
+  
